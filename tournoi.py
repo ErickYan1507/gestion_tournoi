@@ -2063,5 +2063,4 @@ def apply_custom_styles():
 
 # ----------------- Point d'entrée principal -----------------
 if __name__ == "__main__":
-    apply_custom_styles()
     main()
